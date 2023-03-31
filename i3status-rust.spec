@@ -1,7 +1,7 @@
 %define debug_package %nil
 Name:           i3status-rust
 Version:	0.14.3
-Release:	1
+Release:	2
 Summary:        Feature-rich and resource-friendly replacement for i3status, written in Rust
 
 # Upstream license specification: GPLv3
